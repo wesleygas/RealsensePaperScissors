@@ -29,7 +29,7 @@ mistune==0.8.4
 nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
-notebook==6.4.1
+notebook==6.4.12
 numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 pandas==0.25.0
